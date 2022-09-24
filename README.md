@@ -1,7 +1,7 @@
 # notes-template
 These are some tools which I use for live note taking. I use [pandoc](https://pandoc.org/) to convert the markdown files to PDFs using `pdflatex`. The benefit of pandoc is that it also allows LaTeX macros, something which is extremely useful.
 
-To watch the file I'm currently editing, I use a the very straightforward [docwatch](https://github.com/elcorto/docwatch). It has support for pandoc and is very easy to use. For example, to start watching the `template.md` file, just do 
+To watch the file I'm currently editing, I use the very straightforward [docwatch](https://github.com/elcorto/docwatch). It has support for pandoc and is very easy to use. For example, to start watching the `template.md` file, just do 
 ```bash
 docwatch -o "header.yaml" template.md
 ```
