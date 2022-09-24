@@ -1,0 +1,5 @@
+---
+author: codetalker7
+header-includes:
+    - \usepackage{amsmath, bm}
+---
